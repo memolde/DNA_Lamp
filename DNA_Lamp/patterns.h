@@ -1,0 +1,16 @@
+void setupPatterns();
+void patternCycleTroughFromMiddle();
+void patternCycleTrough();
+void patternBarLeftRight();
+void patternRedWhite();
+void patternDNA1();
+void pattern5();
+void patternSunrise();
+void patternSunset();
+void displayPattern(int patternNumber);
+void setBrightness(int level);
+void patternTestRGB(int color);
+void testmodeTouchLevel(long,long,long);
+void testmodeTriggered(int);
+void powerLevel(long);
+boolean isOff();
